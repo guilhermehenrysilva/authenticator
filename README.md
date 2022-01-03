@@ -34,4 +34,4 @@ This project was developed using the MIT license. See more about [LICENSE](https
 
 ---
 
-Made with 💟 by [Rodrigo Gouveia.](https://github.com/rodrigoge) 
+Made with 💟 by [Guilherme Silva.](https://github.com/guilhermehenrysilva) and [Rodrigo Gouveia.](https://github.com/rodrigoge) 
